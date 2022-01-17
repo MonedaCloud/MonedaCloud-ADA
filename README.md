@@ -19,11 +19,19 @@ Bare-metal cluster with dual 1Gb Internet providers load balancing system. (Fibe
 
 We are offering additional rewards to our first ten delegates for the life of the pool as long as they qualify to participate in our TOP-10/5 Reward Program. Additional rewards to our qualified delegates means higher ROI. Check our website or contact us for more information.
 
+
 Ticker: MOC
+
 Pledge: 8000 ADA
+
 Fixed Fee: 340 ADA
+
 Variable Fee: 1%
+
 Website: https://monedacloud.io
+
 Contact: invest@monedacloud.io
+
 Pool ID: 64a4392e99179be25e27a31a6f9e3b31111d761e3d301a7e8f6e9d09
+
 Location: USA
