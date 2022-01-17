@@ -35,3 +35,23 @@ Contact: invest@monedacloud.io
 Pool ID: 64a4392e99179be25e27a31a6f9e3b31111d761e3d301a7e8f6e9d09
 
 Location: USA
+
+MOC Reward Program
+
+
+OVERVIEW
+
+Moneda Cloud IO is sharing 10% of MOC Cardano pool operator rewards to the top ten delegates. The portion of the rewards will be distributed proportionally to all qualified delegates. There will be a maximum of ten delegators participating in the program at any given time. Payouts will be made at the end of every epoch if applicable.
+
+TOP-10/5 REWARD PROGRAM
+
+How to qualify for the Top-10/5 Reward Program:
+
+1. Delegates must stake a minimum of 10K ADA to MonedaCloud Staking Pool [MOC].
+
+2. Delegates must meet their minimum stake to maintain their status active in the program. Once a delagator undelages their ADA, he will become inactive and lose his place in the program. Next delegate in line will take his/her place.
+
+3. Top ten qualified delegates can increase their stake over time.
+
+4. The order in which qualified delegates enter the program matters. Only the first-five will be locked in place not losing their place in the program as long as they meet their minimum stake. Places 6-10th will be based on the amount of ADA staked.
+
