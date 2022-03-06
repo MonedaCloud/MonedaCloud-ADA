@@ -21,11 +21,11 @@ Bare-metal cluster with dual 1Gb Internet providers load balancing system. (Fibe
 
 Ticker: MOC
 
-Pledge: 10,000 ADA
+Pledge: 15,000 ADA
 
 Fixed Fee: 340 ADA
 
-Variable Fee: 1%
+Variable Fee: 0%
 
 Website: https://monedacloud.io
 
@@ -43,15 +43,15 @@ Location: USA
 
 Moneda Cloud IO is sharing 10% of MOC Cardano pool operator rewards to the top ten delegators. The portion of the rewards will be distributed proportionally to all qualified delegates. There will be a maximum of ten delegators participating in the program at any given time. Payouts will be made at the end of every epoch if applicable.
 
-### TOP-10/5 REWARD PROGRAM
+### TOP-10 REWARD PROGRAM
 
-How to qualify for the Top-10/5 Reward Program:
+How to qualify for the Top-10 Reward Program:
 
-1. Delegators must stake a minimum of 10K ADA to MonedaCloud Stake Pool [MOC].
+1. Delegators must stake a minimum of 10K ADA to MonedaCloud [MOC].
 
-2. Delegators must meet their minimum stake to maintain their status active in the program. Once a delagator undelages their ADA, he will become inactive and lose his place in the program. Next delegate in line will take his/her place.
+2. Delegators must meet their minimum stake to maintain their status active in the program. Once a participant undelages their ADA, he/she will become inactive from the program. Next delegate in line will take his/her place.
 
-3. Top ten qualified delegators can increase their stake over time.
+3. Top ten qualified delegates can increase their stake over time.
 
-4. The order in which qualified delegates enter the program matters. Only the first-five will be locked in place not losing their place in the program as long as they meet their minimum stake. Places 6-10th will be based on the amount of ADA staked.
+4. The order in which qualified delegators enter the program matters. The first TOP-10 will be locked in place not losing their place in the program as long as they meet their minimum stake.
 
