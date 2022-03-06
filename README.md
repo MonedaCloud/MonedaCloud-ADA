@@ -1,6 +1,6 @@
 # MonedaCloud-ADA
 
-## Introducing MonedaCloud Stake Pool [MOC]
+## Introducing MonedaCloud [MOC]
 
 MonedaCloud IO expects that digital currency will run our world and reshape our daily lives. Cardano is a blockchain platform with tremendous upside potential to become one of the most valuable digital ecosystems in the near future. Moreover, its technology is designed for the future of finance due to its Proof of Stake methodology, decentralized apps, and smart contracts capability. Therefore, we aim to provide outstanding support to Cardano supporters by maintaining critical infrastructure secure and reliable. Furthermore, we understand that archiving a sound balance between security and performance is essential for the Cardano ecosystem. We believe that Cardano is positioned to be a long-term player in the cryptocurrency world. We are pouring our technical knowledge, and resources into the success of our Cardano pool.
 Our team has five decades of IT experience in programming, Web Development, Open Source technologies, and AI.
