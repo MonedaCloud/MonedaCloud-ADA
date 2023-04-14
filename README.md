@@ -21,7 +21,7 @@ Bare-metal cluster with dual 1Gb Internet providers load balancing system. (Fibe
 
 Ticker: MOC
 
-Pledge: 20,000 ADA
+Pledge: 30,000 ADA
 
 Fixed Fee: 340 ADA
 
