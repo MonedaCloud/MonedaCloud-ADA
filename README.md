@@ -8,7 +8,7 @@ MonedaCloud IO is an educational research company dedicated to enlightening the 
 - Provide reliable digital currency infrastructure to help connect the world.
 - Educate crypto users with curated tools and informed advice to help them on their cryptocurrency journey.
 - Share our digital currency research and technical knowledge along the way to cryptocurrency communities.
-- Develop open source API tools and dApps to enhance blockchain/cryptocurrency mainstream adoption.
+- Develop open-source API tools and dApps to enhance blockchain/cryptocurrency mainstream adoption.
 
 ### Projects Pipeline
 - Cardano Light Wallet. Web and Mobile interface with Web2 integration APIs.
@@ -16,6 +16,7 @@ MonedaCloud IO is an educational research company dedicated to enlightening the 
 - Decentralize nodes 1.0 to capture blockchain data into a distributable database, making the blockchain data accessible without relying on querying the blockchain directly.
 - Decentralize nodes 2.0: Nodes interact with each other using a built-in wallet to interface with the blockchain and each other.
 
+### Cardano Pool Information
 
 Ticker: MOC
 
