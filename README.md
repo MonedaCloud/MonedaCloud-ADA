@@ -4,11 +4,11 @@
 
 MonedaCloud IO is an educational research company dedicated to educating the public and crypto users about open-source and blockchain technology. We are focused on building on Cardano, a well-designed blockchain using the best properties of Bitcoin technology, aiming for mass adoption.
 
-###Objectives
+### Objectives
 
 Advance blockchain technology innovation via the Cardano network ecosystem.
 
-###Motivations
+### Motivations
 
 MonedaCloud dRep on the Cardano network governance focuses on safeguarding Cardano's foundational principles of decentralization, reliability, and security. As a dRep, we prioritize voting to ensure Cardano remains the Bitcoin 2.0 of the future, advocating for decisions that uphold its 45 billion ADA total supply. Our commitment is to advance Cardano's vision without compromising its core values, ensuring scalability enhances, rather than undermines, the network's security and reliability.
 
