@@ -2,19 +2,15 @@
 
 ## Introducing MonedaCloud [MOC]
 
-MonedaCloud IO is an educational research company dedicated to enlightening the public and crypto users about open-source and blockchain technology. Our focus is on providing resources and knowledge for those interested in open-source and the broader blockchain ecosystem.
+MonedaCloud IO is an educational research company dedicated to educating the public and crypto users about open-source and blockchain technology. We are focused on building on Cardano, a well-designed blockchain using the best properties of Bitcoin technology, aiming for mass adoption.
 
-### Goals
-- Provide reliable digital currency infrastructure to help connect the world.
-- Educate crypto users with curated tools and informed advice to help them on their cryptocurrency journey.
-- Share our digital currency research and technical knowledge along the way to cryptocurrency communities.
-- Develop open-source API tools and dApps to enhance blockchain/cryptocurrency mainstream adoption.
+###Objectives
 
-### Projects Pipeline
-- Cardano Light Wallet. Web and Mobile interface with Web2 integration APIs.
-- Cardano Explorer dApp.
-- Decentralize nodes 1.0 to capture blockchain data into a distributable database, making the blockchain data accessible without relying on querying the blockchain directly.
-- Decentralize nodes 2.0: Nodes interact with each other using a built-in wallet to interface with the blockchain and each other.
+Advance blockchain technology innovation via the Cardano network ecosystem.
+
+###Motivations
+
+MonedaCloud dRep on the Cardano network governance focuses on safeguarding Cardano's foundational principles of decentralization, reliability, and security. As a dRep, we prioritize voting to ensure Cardano remains the Bitcoin 2.0 of the future, advocating for decisions that uphold its 45 billion ADA total supply. Our commitment is to advance Cardano's vision without compromising its core values, ensuring scalability enhances, rather than undermines, the network's security and reliability.
 
 ### Cardano Pool Information
 
@@ -28,8 +24,10 @@ Variable Fee: 0%
 
 Website: https://monedacloud.io
 
-Contact: invest@monedacloud.io
+Contact: staking@monedacloud.io
 
 Pool ID: 64a4392e99179be25e27a31a6f9e3b31111d761e3d301a7e8f6e9d09
+
+DRep ID: drep1e364nt4y8hgft8ezdztu5hemgezempljsdacgrghc6j6g23whmq
 
 Location: USA
